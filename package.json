@@ -1,0 +1,23 @@
+{
+  "name": "telegram-chatbot-nodejs-telegraf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fonte.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WoneyBranga/telegram-chatbot-nodejs-telegraf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WoneyBranga/telegram-chatbot-nodejs-telegraf/issues"
+  },
+  "homepage": "https://github.com/WoneyBranga/telegram-chatbot-nodejs-telegraf#readme",
+  "dependencies": {
+    "telegraf": "^3.32.0"
+  }
+}
